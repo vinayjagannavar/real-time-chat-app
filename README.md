@@ -7,7 +7,7 @@ This is a **real-time chat application** built using:
 
 ---
 
-![Demo GIF](demo.gif)
+![Demo GIF](Real-time-chat-app-gif.gif)
 
 
 
