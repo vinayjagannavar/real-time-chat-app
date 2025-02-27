@@ -7,6 +7,14 @@ This is a **real-time chat application** built using:
 
 ---
 
+<p align="center">
+  <video width="600" controls>
+    <source src="Real-time-chat-app.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
 ## 📌 Features
 
 ✅ **Real-time messaging** via WebSockets  
